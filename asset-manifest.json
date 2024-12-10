@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.31d6cfe0.css",
+    "main.js": "/static/js/main.f200b2a6.js",
+    "static/js/453.e3d3880c.chunk.js": "/static/js/453.e3d3880c.chunk.js",
+    "static/media/SoukouMincho.ttf": "/static/media/SoukouMincho.41b151dfd0025d752bc7.ttf",
+    "static/media/ChosunSg.TTF": "/static/media/ChosunSg.382aa014624a78828d1e.TTF",
+    "static/media/SCDream3.otf": "/static/media/SCDream3.1e55b77199a0afd0ed9a.otf",
+    "static/media/SCDream5.otf": "/static/media/SCDream5.ae5ee4933db75a3ccb04.otf",
+    "static/media/SCDream4.otf": "/static/media/SCDream4.64c9dc7c860af7a004ad.otf",
+    "static/media/mainBackground.png": "/static/media/mainBackground.eda548574b057f9267c2.png",
+    "static/media/testBackground.png": "/static/media/testBackground.1878c46e1f7d1f0d1dcf.png",
+    "static/media/Emotional.png": "/static/media/Emotional.21f6c2c3232280f7f133.png",
+    "static/media/Social.png": "/static/media/Social.85dcc61b578d5627ba64.png",
+    "static/media/Spontaneous.png": "/static/media/Spontaneous.47cf742074d3062d6daf.png",
+    "static/media/Balanced.png": "/static/media/Balanced.f66988e3e906ae4a7e31.png",
+    "static/media/profile.png": "/static/media/profile.1af7447fe436c0726fe4.png",
+    "static/media/GoalOriented.png": "/static/media/GoalOriented.38300215940be4d9bef8.png",
+    "static/media/Perfectionist.png": "/static/media/Perfectionist.6bbc72299724ae6940ce.png",
+    "static/media/bot.png": "/static/media/bot.3a81260ba44013becb43.png",
+    "static/media/login.png": "/static/media/login.06ce3575995dcd902a59.png",
+    "index.html": "/index.html",
+    "main.f200b2a6.js.map": "/static/js/main.f200b2a6.js.map",
+    "453.e3d3880c.chunk.js.map": "/static/js/453.e3d3880c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.f200b2a6.js"
+  ]
+}
